@@ -137,7 +137,7 @@ Follow these steps to set up and run the project locally:
   - LinkedIn: [Mahdi Hasan](https://www.linkedin.com/in/mahdi-hasan-emran/)
   - GitHub: [eeemrann](https://github.com/eeemrann)  
 
-  - **Mehreen Mallick Fiona**  
+- **Mehreen Mallick Fiona**  
   - LinkedIn: [Mehreen Mallick Fiona](https://www.linkedin.com/in/mehreen-mallick-fiona/)  
   - GitHub: [Noblesse013](https://github.com/Noblesse013)
 
